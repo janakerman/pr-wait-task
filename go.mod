@@ -3,6 +3,7 @@ module github.com/janakerman/pr-wait-task
 go 1.16
 
 require (
+	github.com/google/go-github/v35 v35.2.0
 	github.com/onsi/ginkgo v1.12.1
 	github.com/onsi/gomega v1.10.1
 	github.com/tektoncd/pipeline v0.20.1
